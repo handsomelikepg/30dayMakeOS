@@ -43,19 +43,14 @@
 - 下载 `DayXX.zip` 或 Word 文件进行实验和参考  
 - 克隆仓库进行学习：
 ```bash
-git clone https://github.com/你的用户名/30dayMakeOS.git
-
-
-
 ---
-
 ✅ 说明：
 - 可以直接复制粘贴到 GitHub 的 **“Edit README.md”** 区域  
 - 页面结构清晰，开头简介 → 学习目标 → 项目结构 → 学习方法 → 使用方法 → 联系方式  
 - 读者打开仓库就能快速了解项目内容和操作方法  
-
 ---
 如有问题或建议，可通过 GitHub Issues 或邮箱联系：
 
 邮箱: s.z@stu.xjtu.edu.cn
 GitHub: handsomelikepg
+

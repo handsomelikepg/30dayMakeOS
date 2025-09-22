@@ -1,1 +1,0 @@
-..\z_tools\nask.exe zsos.nas zsos.img

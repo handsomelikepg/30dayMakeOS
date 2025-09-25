@@ -1,0 +1,56 @@
+[FORMAT "WCOFF"]
+[INSTRSET "i486p"]
+[OPTIMIZE 1]
+[OPTION 1]
+[BITS 32]
+[FILE "bootpack.c"]
+[SECTION .data]
+_table_rgb.0:
+	DB	0
+	DB	0
+	DB	0
+	DB	-1
+	DB	0
+	DB	0
+	DB	0
+	DB	-1
+	DB	0
+	DB	-1
+	DB	-1
+	DB	0
+	DB	0
+	DB	0
+	DB	-1
+	DB	-1
+	DB	0
+	DB	-1
+	DB	0
+	DB	-1
+	DB	-1
+	DB	-1
+	DB	-1
+	DB	-1
+	DB	-58
+	DB	-58
+	DB	-58
+	DB	-124
+	DB	0
+	DB	0
+	DB	0
+	DB	-124
+	DB	0
+	DB	-124
+	DB	-124
+	DB	0
+	DB	0
+	DB	0
+	DB	-124
+	DB	-124
+	DB	0
+	DB	-124
+	DB	0
+	DB	-124
+	DB	-124
+	DB	-124
+	DB	-124
+	DB	-124
